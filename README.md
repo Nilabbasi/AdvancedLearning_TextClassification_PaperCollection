@@ -13,3 +13,6 @@ This repository, ‘AdvancedLearning_TextClassification_PaperCollection’, is a
 - **Authors**: Huaxiu Yao, Yingxin Wu, Maruan Al-Shedivat, Eric P. Xing
 - **Publication Details**: Submitted on 10 Sep 2021
 
+### Meta Learning for Few-Shot Medical Text Classification
+- **Authors**: Pankaj Sharma, Minh Tran, and Imran Qureshi
+
