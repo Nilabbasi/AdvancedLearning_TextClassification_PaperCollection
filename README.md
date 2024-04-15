@@ -17,3 +17,7 @@ This repository, ‘AdvancedLearning_TextClassification_PaperCollection’, is a
 - **Authors**: Pankaj Sharma, Minh Tran, and Imran Qureshi
 - **Description**: This paper investigates the application of meta-learning and robustness techniques on a broad corpus of benchmark text and medical data. The authors developed new data pipelines, combined language models with meta-learning approaches, and extended existing meta-learning algorithms to minimize worst-case loss. They found that meta-learning on text is a suitable framework for text-based data, providing better data efficiency and comparable performance to few-shot language models. It can be successfully applied to medical note data, and when coupled with Distributionally Robust Optimization (DRO), it can improve worst-case loss across disease codes. The authors also explored the impact of predictions by meta-learning models once they are optimized for worst-case expected loss due to atypical groups of data. They concluded that DRO combined with MAML does improve prediction and accounts for distribution shift, and that DRO combined with ProtoNet gives mixed results.
 
+### A review of semi-supervised learning for text classification
+- **Authors:** José Marcio Duarte, Lilian Berton
+- **Publication Details:** Artificial Intelligence Review (2023) 56:9401–9469, Published online: 31 January 2023
+
